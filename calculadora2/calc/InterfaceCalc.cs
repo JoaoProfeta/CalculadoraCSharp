@@ -8,7 +8,6 @@ namespace calculadora2.calc
 {
     public interface ICalculator
     {
-        double result { get; set; }
         double Calcular(string resultado);
     }
 }

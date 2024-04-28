@@ -9,6 +9,7 @@ namespace calculadora2.Calc
 {
     public class Operar : ICalculator
     {
+        #region caso queira fazer com switch ::::
         //public double Calcular(double primeiroIndice, char operador, double segundoIndice)
         //{
         //    switch (operador)
@@ -19,9 +20,8 @@ namespace calculadora2.Calc
         //        case '/': return primeiroIndice / segundoIndice; break;
         //            default: return 0;
         //    }
-        //}
-        public double result { get; set; }
-
+        //}        
+        #endregion
         public double Calcular(string resultado)
         {
             if(resultado == null || resultado == "")

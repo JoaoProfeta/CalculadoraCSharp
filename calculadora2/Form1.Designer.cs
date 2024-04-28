@@ -83,6 +83,7 @@ namespace calculadora2
             this.btnIgual.Text = "=";
             this.btnIgual.UseVisualStyleBackColor = true;
             this.btnIgual.Click += new System.EventHandler(this.btnIgual_Click);
+            this.btnIgual.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.btnIgual_KeyPress);
             // 
             // btn1
             // 
@@ -253,6 +254,7 @@ namespace calculadora2
             // 
             this.txtResultado.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(37)))), ((int)(((byte)(41)))));
             this.txtResultado.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtResultado.Cursor = System.Windows.Forms.Cursors.No;
             this.txtResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtResultado.ForeColor = System.Drawing.Color.White;
             this.txtResultado.Location = new System.Drawing.Point(13, 90);
@@ -260,7 +262,9 @@ namespace calculadora2
             this.txtResultado.Size = new System.Drawing.Size(376, 38);
             this.txtResultado.TabIndex = 21;
             this.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtResultado.TextChanged += new System.EventHandler(this.lblResultado_TextChanged);
+            this.txtResultado.Click += new System.EventHandler(this.txtResultado_Click);
+
+            this.txtResultado.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtResultado_KeyPress);
             // 
             // Form1
             // 
