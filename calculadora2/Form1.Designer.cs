@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace calculadora2
+namespace Calculadora
 {
     partial class Form1
     {
@@ -30,6 +30,7 @@ namespace calculadora2
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btnVirgula = new System.Windows.Forms.Button();
             this.btn0 = new System.Windows.Forms.Button();
             this.btnIgual = new System.Windows.Forms.Button();
@@ -263,7 +264,6 @@ namespace calculadora2
             this.txtResultado.TabIndex = 21;
             this.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtResultado.Click += new System.EventHandler(this.txtResultado_Click);
-
             this.txtResultado.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtResultado_KeyPress);
             // 
             // Form1
@@ -293,11 +293,12 @@ namespace calculadora2
             this.Controls.Add(this.btnVirgula);
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(226)))), ((int)(((byte)(230)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(424, 558);
             this.MinimumSize = new System.Drawing.Size(424, 558);
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(20);
-            this.Text = "aaa";
+            this.Text = "CalculadoraDiff";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

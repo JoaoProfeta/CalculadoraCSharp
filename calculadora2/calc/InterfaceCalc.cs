@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace calculadora2.calc
+namespace Calculadora.calc
 {
     public interface ICalculator
     {

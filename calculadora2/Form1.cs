@@ -1,5 +1,5 @@
-﻿using calculadora2.calc;
-using calculadora2.Calc;
+﻿using Calculadora.calc;
+using Calculadora.Calc;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,7 +13,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ToolBar;
 using TextBox = System.Windows.Forms.TextBox;
 
-namespace calculadora2
+namespace Calculadora
 {
     public partial class Form1 : Form
     {   public TextBox textBoxModifiers {  get; set; }

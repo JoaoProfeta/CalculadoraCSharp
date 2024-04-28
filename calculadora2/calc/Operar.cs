@@ -1,11 +1,11 @@
-﻿using calculadora2.calc;
+﻿using Calculadora.calc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace calculadora2.Calc
+namespace Calculadora.Calc
 {
     public class Operar : ICalculator
     {
