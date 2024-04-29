@@ -16,7 +16,7 @@ não ter parado de simplismente perguntar a quem tem mais experiencia, e simplis
 Encontrei o DataTable na documentação da microsoft em uma de minhas pesquisas, sabendo um pouco sobre ele pensei, "isso não tem nada de parecido com o que quero", mas cliquei mesmo assim, fui lendo um e outro, enfim quando cheguei na aba de metodos, encontrei o Compute() e pensei : PUTAMERDA SERA?. Sim, foi!! corri atras obviamente de como usar, e definitivamente FUNCIONOU(claro, para cálculos basicos, mas era o que eu queria). fiquei fascinado com o que achei logo após de 1h na crise do impostor, fui de 0 a 100 em felicidade, entrei na crise do SUPER INTELIGENTE( tenho que parar com essas merdas ), esse foi o meu projetinho, e fiquei muito feliz em termina-lo, foi um desafio engraçado e diferente!
 
 ### finalização : 😌
-Claro, tudo isso parte do pressuposto de uso básico. em um projeto maior, não deve ser usado isso, por conta da dificil manutenção que pode vir mais tarde, por conta de algo que não é tão explícito, mas fico feliz que consegui fazer o que eu desejava, ter corrido atras e finalizar da forma como eu inicialmente imaginava!!!
+Claro, tudo isso parte do pressuposto de uso básico. em um projeto maior, não deve ser usado isso, por conta da dificil manutenção que pode vir mais tarde, por conta de algo que não é tão explícito, mas fico feliz que consegui fazer o que eu desejava, ter corrido atras e finalizar da forma como eu inicialmente imaginava!!! <br/>
 <img src="https://github.com/JoaoProfeta/CalculadoraCSharp/blob/master/calculadora2/assets/Calculadora.png"></img>
 ##  o que foi usado para inciar e concluir esse projeto : 🛠️ 
 -   [Visual Studio community](https://visualstudio.microsoft.com/pt-br/vs/community/)
