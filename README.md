@@ -22,4 +22,12 @@ Claro, tudo isso parte do pressuposto de uso básico. em um projeto maior, não 
 -   [C# language documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 -   [Stack Overflow](https://stackoverflow.com/)
 -   [Google](google.com)
--   
+## para utilizar esssa calculadora : 🧮
+```bash
+# Clone this repository
+$ git clone https://github.com/JoaoProfeta/CalculadoraCSharp.git
+
+```
+## Redes sociais: 
+- [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-jesus-profeta-195bb0239/)
+- [GitHub](https://github.com/JoaoProfeta)
