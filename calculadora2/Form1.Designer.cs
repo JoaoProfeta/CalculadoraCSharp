@@ -232,7 +232,7 @@ namespace Calculadora
             // btnDividir
             // 
             this.btnDividir.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDividir.Location = new System.Drawing.Point(301, 226);
+            this.btnDividir.Location = new System.Drawing.Point(301, 225);
             this.btnDividir.Name = "btnDividir";
             this.btnDividir.Size = new System.Drawing.Size(90, 63);
             this.btnDividir.TabIndex = 19;
@@ -243,7 +243,7 @@ namespace Calculadora
             // btnApagar
             // 
             this.btnApagar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnApagar.Location = new System.Drawing.Point(205, 155);
+            this.btnApagar.Location = new System.Drawing.Point(205, 156);
             this.btnApagar.Name = "btnApagar";
             this.btnApagar.Size = new System.Drawing.Size(186, 63);
             this.btnApagar.TabIndex = 20;
