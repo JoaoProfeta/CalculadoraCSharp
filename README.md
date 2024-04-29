@@ -21,3 +21,5 @@ Claro, tudo isso parte do pressuposto de uso básico. em um projeto maior, não 
 -   [Visual Studio community](https://visualstudio.microsoft.com/pt-br/vs/community/)
 -   [C# language documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 -   [Stack Overflow](https://stackoverflow.com/)
+-   [Google](google.com)
+-   
