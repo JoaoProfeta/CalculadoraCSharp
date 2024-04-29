@@ -18,4 +18,4 @@ Encontrei o DataTable na documentação da microsoft em uma de minhas pesquisas,
 ### finalização : 😌
 Claro, tudo isso parte do pressuposto de uso básico. em um projeto maior, não deve ser usado isso, por conta da dificil manutenção que pode vir mais tarde, por conta de algo que não é tão explícito, mas fico feliz que consegui fazer o que eu desejava, ter corrido atras e finalizar da forma como eu inicialmente imaginava!!!
 ##  o que foi usado para inciar e concluir esse projeto : 🛠️ 
--   [Visual Studio community]([https://react.dev/](https://visualstudio.microsoft.com/pt-br/vs/community/))
+-   [Visual Studio community](https://visualstudio.microsoft.com/pt-br/vs/community/)
